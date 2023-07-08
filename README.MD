@@ -1,0 +1,1 @@
+Study-like API using Python and FastAPI
