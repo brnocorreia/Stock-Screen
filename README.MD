@@ -1,1 +1,1 @@
-Study-like API using Python and FastAPI
+Study-like fullstack project using Python and FastAPI
